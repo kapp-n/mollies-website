@@ -6,14 +6,16 @@ body {
     src: url('/Fredoka_One/FredokaOne-Regular.ttf');
 }
 
+* {
+    text-align: center;
+    font-size: 28px;
+    font-family: Fredoka_One, 'Trebuchet MS', sans-serif;
+}
+
 h1 {
     text-align: center;
     font-size: 45px;
     font-family: Fredoka One, 'Trebuchet MS', sans-serif;
     color: #FFE2A1;
 }
-script {
-    text-align: center;
-    font-size: 28px;
-    font-family: Fredoka_One, 'Trebuchet MS', sans-serif;
-}
+
