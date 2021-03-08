@@ -4,7 +4,7 @@ body {
 
 
 * {
-    color: #FFE2A1
+    color: #FFE2A1;
     text-align: center;
     font-size: 28px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-    color:#FFE2A1
+    color:#FFE2A1;
     text-align: center;
     font-size: 45px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
