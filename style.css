@@ -1,21 +1,19 @@
 body {
     background: #065535
 }
-@font-face {
-    font-family: 'Fredoka One';
-    src: url('/Fredoka_One/FredokaOne-Regular.ttf');
-}
+
 
 * {
     text-align: center;
     font-size: 28px;
-    font-family: Fredoka_One, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    color: #FFE2A1;
 }
 
 h1 {
     text-align: center;
     font-size: 45px;
-    font-family: Fredoka One, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     color: #FFE2A1;
 }
 
